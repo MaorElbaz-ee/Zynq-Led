@@ -1,5 +1,5 @@
 # step 1 : creating project
-create_project Zync_Led ./Zync_Led -part xc7z020clg400-1
+create_project Zynq_Led ./Zynq_Led -part xc7z020clg400-1
 # step 2 : choosing the board
 set_property board_part digilentinc.com:arty-z7-20:part0:1.1 [current_project]
 # step 3 : building the block design
