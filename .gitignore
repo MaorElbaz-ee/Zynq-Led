@@ -1,0 +1,6 @@
+*.logfile
+*.jou
+Zync_Led/
+NA/
+*.log
+.Xil/
